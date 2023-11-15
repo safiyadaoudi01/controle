@@ -4,21 +4,18 @@
 mobile:
 
 
-
-
-![Screenshot 2023-11-15 194306](https://github.com/safiyadaoudi01/controle/assets/120654774/4d7d321c-6fc9-4e0a-b9d4-8005d5d47cf0)
-
+![home](https://github.com/safiyadaoudi01/controle/assets/120654774/86f549d2-feb6-42ca-92a7-21865bae54eb)
 
 
 
 
-![Screenshot 2023-11-15 194428](https://github.com/safiyadaoudi01/controle/assets/120654774/366586db-72a8-4e92-875c-6049b7bddbcd)
+![Screenshot 2023-11-15 194428](https://github.com/safiyadaoudi01/controle/assets/120654774/c952641f-b4f7-4bfb-8f3b-65761021aa13)
 
 
 
 
-![WhatsApp Image 2023-11-15 at 6 54 58 PM](https://github.com/safiyadaoudi01/controle/assets/120654774/781f28e6-14ad-4bc7-a596-eaebb0ea9ea8)
 
+![list](https://github.com/safiyadaoudi01/controle/assets/120654774/2cb8e87f-98e5-48a4-9ba1-748e401678c7)
 
 
 
